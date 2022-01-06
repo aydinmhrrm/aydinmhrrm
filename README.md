@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 -->
 
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
-- You can show some   ❤️    &nbsp; by starring some of the repositories 😄  
-- Attention to detail and excellent organizational skills. 
+- ✨ You can show some   ❤️    &nbsp; by starring some of the repositories 😄  
+- ✨ Attention to detail and excellent organizational skills. 
 - ✨ Believes in the importance of learning new things every day. 
-- A lifelong learner. 
+- ✨ A lifelong learner. 
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: aydin.mhrrm16@gmail.com
 
