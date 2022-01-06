@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1>I'm Muharrem Aydin</h1>
 
-# <h2>`DevOps Engineer`</h2>
+# <h2>`SDET, QA`</h2>
 
 
 
@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🌱 I’m currently learning AWS, Linux Plus, Cloud Formation, Docker, Kubernetes, Terraform
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
-- You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
-- ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
+- You can show some   ❤️    &nbsp; by starring some of the repositories 😄  
 - Attention to detail and excellent organizational skills. 
 - ✨ Believes in the importance of learning new things every day. 
 - A lifelong learner. 
