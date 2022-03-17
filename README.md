@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1>I'm Muharrem Aydin</h1>
 
-# <h2>`SDET, QA`</h2>
+# <h2>`SDET, QA, Automation Engineer`</h2>
 
 
 
